@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "name" : "Vijeth Kalavarkar",
+        "email" : "vkalavarkar321@gmail.com",
+        "place" : "Kundapur"
+        
+    },
+
+    {
+        "id" : 2,
+        "name" : "Ashlesh",
+        "email" : "ashlesh@gmail.com",
+        "place" : "Kundapur"
+        
+    },
+
+    {
+        "id" : 3,
+        "name" : "Manoraj",
+        "email" : "manoraj321@gmail.com",
+        "place" : "Kundapur"
+        
+    },
+
+    {
+        "id" : 4,
+        "name" : "Prajwal",
+        "email" : "pajju@gmail.com",
+        "place" : "Kundapur"
+        
+    }
+]
